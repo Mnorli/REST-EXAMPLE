@@ -1,0 +1,13 @@
+{
+  "room1" : {
+    "name" : "Makrellen",
+    "capacity" : "12",
+    "id": 1
+  },
+
+  "room2" : {
+    "name" : "Piren",
+    "capacity" : "8",
+    "id": 2
+  }
+}
